@@ -1,0 +1,8 @@
+How I Set Up My Cybersecurity Portfolio
+When building my Cybersecurity Portfolio this is something new and the more time I spend on it the more ill grow and now to use it. This is the start on learning how to understand that a Portfolio is a tool to be hired back up your claims and understanding that words on paper is just words but a portfolio is the collection of things you have done that are finished and wanting to show off and what you can do.
+
+What I Learned From Building My Own Email Server
+When building my email server there is a lot of things that needs to be done making sure that you can filler out the spam and legit emails that needs to be done and have the common knowledge of understanding that unauthorized access, and other malicious activities is crucial. To implement SPF (Sender Policy Framework) and DKIM (DomainKeys Identified Mail) is necessary that will be able to authenticate emails and prevent spoofing. Lastly having a TLS encryption this will make sure that you have have secure communication between clients and the server.
+
+My Favorite OSINT Tool and Why
+My favorite tool that i used will probably be WHOIS lookup this will allow me to start digging up information from who and where this will allow me to get a name, address, phone number and more information. With this i can help be do a reverse DNS lookup that will help find domains linked to the IP address. With digging deeper having to use social media profile lookup this can help identify associated social media accounts from the email address and names that come up from the account when looking up if they are part a company, owner or see if they have there one site. Information is what is needed to do investigations  
